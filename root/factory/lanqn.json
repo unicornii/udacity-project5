@@ -1,0 +1,9 @@
+{
+	"name": "lanqn",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c4ae2fe7-ac1f-49bf-bbac-905d0b50f78f",
+		"tenantId": "9b7cbd77-6d6b-4879-8aba-63d7dfb18472"
+	}
+}
